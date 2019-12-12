@@ -14,6 +14,7 @@ Nos formamos constantemente en las tecnologías más usadas en el mercado, enten
 
 ### Who we are?
 We are a software development cooperative located at Quilmes, Argentina and we dedicate to develop quality software, having in mind not just technical aspects but also human aspects of it.
+
 We consider that our work must be part of our lives from a commitment perspective and not alienation.
 
 Constantly we are formed in the lastest technologies, understanding that the technical update will allow us to dominate these technologies and that this knowledge must be shared for the construction of a more egalitarian society.
